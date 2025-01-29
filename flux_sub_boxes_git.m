@@ -4,7 +4,6 @@
 % longitudinal segments
 
 % INPUTS:
-    % Raster image of debris thickness (.tif)
     % Shapefile of center flow line
     % Shapefile of flux boxes
 
